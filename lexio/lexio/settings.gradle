@@ -1,0 +1,4 @@
+rootProject.name = 'lexio'
+
+include 'blackjack'
+include 'module-common'
